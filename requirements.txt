@@ -1,4 +1,4 @@
 Pyqt5==5.11.2
 pytest==3.7.3
-pytest-sftpserver=1.2.0
-pysftp=0.2.9 
+pytest-sftpserver==1.2.0
+pysftp==0.2.9
